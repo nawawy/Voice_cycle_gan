@@ -1,0 +1,2 @@
+model_checkpoint_path: "MSA_SYR_2.ckpt"
+all_model_checkpoint_paths: "MSA_SYR_2.ckpt"
